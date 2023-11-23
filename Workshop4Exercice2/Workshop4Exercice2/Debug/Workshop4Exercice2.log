@@ -1,0 +1,71 @@
+﻿  Cube.cpp
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(13,1): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(13,14): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(13,27): error C2550: 'Cube' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(13,28): warning C4508: 'Cube' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(15,1): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(15,23): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(15,49): error C2550: 'Cube' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(15,50): warning C4508: 'Cube' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(17,5): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(19,9): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(24,5): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(26,9): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(31,5): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(33,9): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(38,8): error C2653: 'Cube' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Cube.cpp(38,81): error C2065: 'dim1' : identificateur non déclaré
+  Main.cpp
+  Objet2D.cpp
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(3,1): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(3,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(3,57): error C2550: 'Objet2D' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(3,58): warning C4508: 'Objet2D' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(5,1): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(5,40): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(5,85): error C2550: 'Objet2D' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(5,86): warning C4508: 'Objet2D' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(7,5): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(11,5): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(15,8): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(15,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(15,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'afficheInfo'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(15,31): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(15,31): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,6): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,35): error C2065: 'suivant' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,42): error C2563: incompatibilité dans la liste de paramètres formels
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,15): error C2182: 'setSuivant' : utilisation non conforme du type 'void'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,44): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(20,44): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,1): error C2365: 'Objet2D' : redéfinition ; la précédente définition était 'fonction'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,10): error C2653: 'Objet2D' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,32): error C2059: erreur de syntaxe : '{'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,32): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Objet2D.cpp(24,32): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+  Rectangle.cpp
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(13,1): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(13,24): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(13,36): error C2550: 'Rectangle' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(13,37): warning C4508: 'Rectangle' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(17,1): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(17,51): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(17,82): error C2550: 'Rectangle' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(17,83): warning C4508: 'Rectangle' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(21,5): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(21,41): error C2065: 'dim1' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(21,48): error C2065: 'dim2' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(25,5): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(25,35): error C2065: 'dim1' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(25,42): error C2065: 'dim2' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(29,5): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(29,39): error C2065: 'dim1' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(33,5): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(33,38): error C2065: 'dim2' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(37,8): error C2653: 'Rectangle' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(39,62): error C2065: 'dim1' : identificateur non déclaré
+C:\Users\gamer\source\repos\Workshop4Exercice2\Workshop4Exercice2\Rectangle.cpp(41,30): error C2065: 'dim2' : identificateur non déclaré
+  Génération de code en cours...
